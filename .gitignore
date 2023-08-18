@@ -3,6 +3,16 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# My ignored files:
+/.gitattributes
+/.gitignore
+/MLTest/createData.exe
+/MLTest/dataNorm.cpp
+/MLTest/dataNorm.exe
+/MLTest/testDataExpFunc.txt
+/MLTest/testDataExpFunc2.txt
+/MLTest/testDataExpFuncNorm.txt
+
 # User-specific files
 *.rsuser
 *.suo
