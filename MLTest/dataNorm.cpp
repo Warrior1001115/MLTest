@@ -1,5 +1,5 @@
 // Normalization of test values stored in file and creating new file with normalized values.
-// Do not include in project.
+// Do not include in project. 
 
 #include <fstream>
 #include <iostream>
